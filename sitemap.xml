@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://graydavid.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/memoization/memoization.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/motivation/motivation.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/hello-world/hello-world.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/basics/basics.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/common/common.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/advanced/advanced.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/cancellation/cancellation.html</loc>
+    </url>
+    <url>
+        <loc>https://graydavid.github.io/aggra-guide/faq/faq.html</loc>
+    </url>
+</urlset>
